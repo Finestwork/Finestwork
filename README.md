@@ -12,8 +12,8 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=pug" />
+<a href=""><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=pug" /></a>
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=sass" />
 <img src="https://skillicons.dev/icons?i=tailwind" />
