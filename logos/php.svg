@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="#242938"/>
+    <path id="php" d="M27.771,89.158c14.875,0,26.313,6.266,26.313,13.148s-11.447,13.148-26.313,13.148S1.458,109.188,1.458,102.306,12.9,89.158,27.771,89.158m0-1.458C12.436,87.7,0,94.235,0,102.306s12.436,14.606,27.771,14.606,27.771-6.535,27.771-14.606S43.105,87.7,27.771,87.7Zm-8.835,13.434c-.686,3.515-3.107,3.15-6.083,3.15l1.189-6.127c3.3,0,5.537-.356,4.895,2.977ZM8.453,110.489h3.185l.755-3.888c3.567,0,5.78.26,7.828-1.658,2.265-2.083,2.855-5.788,1.241-7.646a5.079,5.079,0,0,0-4.035-1.449H11.29ZM24.568,91.952h3.168l-.755,3.888c2.734,0,5.268-.2,6.491.929,1.284,1.18.668,2.69-.72,9.815H29.541c1.336-6.891,1.588-7.463,1.1-7.984-.469-.5-1.536-.4-4.114-.4L24.9,106.584H21.73l2.838-14.632Zm19.257,9.182c-.694,3.567-3.185,3.15-6.083,3.15l1.189-6.127c3.315,0,5.537-.356,4.895,2.977Zm-10.483,9.355h3.194l.755-3.888c3.749,0,5.823.217,7.828-1.658,2.265-2.083,2.855-5.788,1.241-7.646a5.079,5.079,0,0,0-4.035-1.449H36.189Z" transform="translate(4 -70.7)" fill="#fff"/>
+  </g>
+</svg>

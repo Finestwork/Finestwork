@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="#fff"/>
+    <g id="vuex-store" transform="translate(-93.335 -89.259)">
+      <path id="Path_1" data-name="Path 1" d="M105.335,297.479l15.614-31.5,3.9,7.683v8.079l-7.757,15.737Zm39.034.025L128.755,266l-3.9,7.683v8.079l7.733,15.737Z" transform="translate(0 -156.815)" fill="#41b883"/>
+      <path id="Path_2" data-name="Path 2" d="M105.335,101.259l9.758,19.715,5.855-11.809-3.9-7.906Zm39.034,0-9.758,19.715-5.855-11.809,3.9-7.906Z" fill="#35495e"/>
+    </g>
+  </g>
+</svg>

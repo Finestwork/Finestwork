@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8c38ee"/>
+      <stop offset="1" stop-color="#3a0d6e"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="url(#linear-gradient)"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(-61 -51)">
+      <path id="Path_3" data-name="Path 3" d="M94.665,105.406c9.9,0,15.86-4.846,15.86-12.838,0-6.042-4.255-10.415-10.573-11.108v-.251a10.145,10.145,0,0,0,8.285-9.88c0-6.86-5.415-11.328-13.668-11.328H76v45.406ZM83.221,65.758h9.607c5.222,0,8.188,2.328,8.188,6.545,0,4.5-3.449,7.017-9.7,7.017H83.221V65.758Zm0,33.889V84.7h9.542c6.834,0,10.38,2.517,10.38,7.426s-3.449,7.52-9.961,7.52Z" fill="#fff"/>
+      <path id="Path_4" data-name="Path 4" d="M94.665,105.406c9.9,0,15.86-4.846,15.86-12.838,0-6.042-4.255-10.415-10.573-11.108v-.251a10.145,10.145,0,0,0,8.285-9.88c0-6.86-5.415-11.328-13.668-11.328H76v45.406ZM83.221,65.758h9.607c5.222,0,8.188,2.328,8.188,6.545,0,4.5-3.449,7.017-9.7,7.017H83.221V65.758Zm0,33.889V84.7h9.542c6.834,0,10.38,2.517,10.38,7.426s-3.449,7.52-9.961,7.52Z" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

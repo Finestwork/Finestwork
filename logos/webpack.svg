@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="#fff"/>
+    <g id="webpack" transform="translate(-108.108 -68.986)">
+      <path id="Path_23" data-name="Path 23" d="M163.112,115.124l-21.824,12.341v-9.609l13.6-7.484Zm1.5-1.356V87.954l-7.981,4.612v16.6l7.981,4.605Zm-47.059,1.356,21.824,12.348v-9.616l-13.606-7.484-8.218,4.752Zm-1.5-1.356V87.954l7.981,4.612v16.6Zm.936-27.492,22.383-12.663v9.294L125.026,90.8l-.112.063c0,.007-7.925-4.584-7.925-4.584Zm46.682,0L141.288,73.621v9.294l14.34,7.883.112.063,7.932-4.584Z" transform="translate(0)" fill="#8ed6fb"/>
+      <path id="Path_24" data-name="Path 24" d="M290.694,283.215l-13.417-7.38V261.223l13.417,7.75Zm1.915,0,13.417-7.373V261.223l-13.417,7.75Zm-14.431-23.683,13.466-7.4,13.466,7.4-13.459,7.778Z" transform="translate(-151.322 -167.552)" fill="#1c78c0"/>
+    </g>
+  </g>
+</svg>

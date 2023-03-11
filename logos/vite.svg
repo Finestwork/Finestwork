@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.008" y1="0.077" x2="0.576" y2="0.784" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#41d1ff"/>
+      <stop offset="1" stop-color="#bd34fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.434" y1="0.022" x2="0.503" y2="0.89" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffea83"/>
+      <stop offset="0.083" stop-color="#ffdd35"/>
+      <stop offset="1" stop-color="#ffa800"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="#242938"/>
+    <g id="vite-seeklogo.com" transform="translate(12 12)">
+      <path id="Path_1" data-name="Path 1" d="M40.01,29.709,21.153,63.429a1.025,1.025,0,0,1-1.785.008L.137,29.713A1.025,1.025,0,0,1,1.208,28.2L20.085,31.57a1.025,1.025,0,0,0,.364,0L38.932,28.2A1.025,1.025,0,0,1,40.01,29.709Z" transform="translate(0 -23.761)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_2" data-name="Path 2" d="M103.552.01,89.6,2.744a.512.512,0,0,0-.413.473l-.858,14.5a.512.512,0,0,0,.627.53l3.885-.9a.512.512,0,0,1,.617.6L92.3,23.6a.512.512,0,0,0,.651.593l2.4-.729A.512.512,0,0,1,96,24.06l-1.834,8.879a.512.512,0,0,0,.932.382L95.306,33l11.371-22.693a.512.512,0,0,0-.555-.733l-4,.772a.513.513,0,0,1-.589-.645l2.61-9.049A.512.512,0,0,0,103.552.01Z" transform="translate(-74.475 0)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

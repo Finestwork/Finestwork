@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fefaeb"/>
+      <stop offset="1" stop-color="#ffdc79"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.553" x2="0.428" y2="0.429" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#52ce63"/>
+      <stop offset="1" stop-color="#51a256"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.553" x2="0.428" y2="0.429" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" x1="0.5" x2="0.5" y2="0.588" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8ae99c"/>
+      <stop offset="1" stop-color="#52ce63"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="0.514" y1="0.175" x2="0.446" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe56c"/>
+      <stop offset="1" stop-color="#ffc63a"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="url(#linear-gradient-2)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(15.292 7) rotate(7)">
+      <path id="Path_3" data-name="Path 3" d="M5.036,19.675c4.437-.436,6-4.04,6.537-9.472S8.479-.145,6.97,0,.665,5.9.131,11.327.6,20.111,5.036,19.675Z" transform="translate(0 13.068) rotate(-45)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+      <path id="Path_4" data-name="Path 4" d="M6.71,19.675c4.437.436,5.318-2.927,4.784-8.359S6.286.152,4.776,0-.482,4.758.052,10.19s2.221,9.048,6.658,9.484Z" transform="translate(29.463 4.845) rotate(45)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+      <path id="Path_5" data-name="Path 5" d="M5.206,21.605c4,0,5.1-3.826,5.1-9.792S6.565,0,5.206,0,0,5.847,0,11.813,1.211,21.605,5.206,21.605Z" transform="translate(13.541 0)" fill-rule="evenodd" fill="url(#linear-gradient-5)"/>
+    </g>
+    <path id="Path_6" data-name="Path 6" d="M49.051,201.308c8.314,0,15.056-2.415,15.056-13.368S57.365,168,49.051,168,34,176.988,34,187.94,40.737,201.308,49.051,201.308Z" transform="translate(-18.784 -144.392)" fill-rule="evenodd" fill="url(#linear-gradient-6)"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="2.151" cy="1" rx="2.151" ry="1" transform="translate(35.721 39.311)" fill="#eaadcc"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="2.151" cy="1" rx="2.151" ry="1" transform="translate(20.055 38.457) rotate(7)" fill="#eaadcc"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(18.867 27.559)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 17.004)">
+        <path id="Path_14" data-name="Path 14" d="M70.5,377.5l7.4,7.7" transform="translate(-70.5 -377.5)" fill="none" stroke="#ecb732" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+        <path id="Path_15" data-name="Path 15" d="M92.2,386.5l-4.7,5" transform="translate(-85.8 -385.6)" fill="none" stroke="#ecb732" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_5" data-name="Group 5" transform="translate(22.705 24.706) rotate(180)">
+        <path id="Path_16" data-name="Path 16" d="M0,7.7,7.4,0" transform="translate(0 0)" fill="none" stroke="#ecb732" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+        <path id="Path_17" data-name="Path 17" d="M4.7,5,0,0" transform="translate(1.7 1.8)" fill="none" stroke="#ecb732" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+      </g>
+      <g id="Group_6" data-name="Group 6" transform="translate(14.403 0) rotate(90)">
+        <path id="Path_18" data-name="Path 18" d="M0,0,4.9,4.9" transform="translate(0 0)" fill="none" stroke="#ffc73b" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+        <path id="Path_19" data-name="Path 19" d="M0,4.9,4.9,0" transform="translate(4.901 5.901) rotate(180)" fill="none" stroke="#ffc73b" stroke-linecap="round" stroke-width="1" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(-21.846 111.91)">
+      <path id="Path_10" data-name="Path 10" d="M1.946,3.892a1.946,1.946,0,1,1,1.376-.57,1.94,1.94,0,0,1-1.376.57Z" transform="translate(61.197 -72.015) rotate(178)" fill-rule="evenodd"/>
+      <path id="Path_12" data-name="Path 12" d="M.543,2.217A1.674,1.674,0,1,1,2.217,3.892,1.674,1.674,0,0,1,.543,2.217ZM0,2.217A2.217,2.217,0,1,0,2.217,0,2.217,2.217,0,0,0,0,2.217Z" transform="translate(61.478 -71.753) rotate(178)" fill="#fff" stroke="#fff" stroke-width="0.05"/>
+      <path id="Path_13" data-name="Path 13" d="M0,.634A.634.634,0,1,0,.634,0,.634.634,0,0,0,0,.634Z" transform="translate(59.241 -73.576) rotate(178)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <path id="Path_7" data-name="Path 7" d="M0,.83A4.2,4.2,0,0,1,3.3.068,3.6,3.6,0,0,1,5.946,1.74" transform="translate(32.35 42) rotate(177)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.5" fill-rule="evenodd"/>
+    <g id="Group_10" data-name="Group 10" transform="translate(12.748 113.667)">
+      <path id="Path_8" data-name="Path 8" d="M1.9,3.8a1.9,1.9,0,1,1,1.342-.556A1.893,1.893,0,0,1,1.9,3.8Z" transform="translate(12.23 -74.162) rotate(178)" fill-rule="evenodd"/>
+      <path id="Path_9" data-name="Path 9" d="M0,.618A.618.618,0,1,0,.618,0,.618.618,0,0,0,0,.618Z" transform="translate(10.321 -75.686) rotate(178)" fill="#fff" fill-rule="evenodd"/>
+      <path id="Path_11" data-name="Path 11" d="M.53,2.164A1.634,1.634,0,1,1,2.164,3.8,1.634,1.634,0,0,1,.53,2.164Zm-.53,0A2.164,2.164,0,1,0,2.164,0,2.164,2.164,0,0,0,0,2.164Z" transform="translate(12.504 -73.907) rotate(178)" fill="#fff" stroke="#fff" stroke-width="0.05"/>
+    </g>
+  </g>
+</svg>

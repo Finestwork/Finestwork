@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff7152"/>
+      <stop offset="1" stop-color="#f3421c"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="rgba(255,255,255,0)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(5 -3)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" transform="translate(-5 3)" fill="url(#linear-gradient)"/>
+      <path id="html5" d="M0,32,3.673,73.651l16.48,5.493,16.585-5.493L40.41,32ZM32.433,45.459H13.091l.431,5.2H32L30.57,66.275l-10.3,2.841v.032h-.116L9.766,66.275,9.134,58.3h5.02l.368,4.009,5.63,1.526L25.8,62.307l.631-6.546H8.871L7.524,40.44H32.9Z" transform="translate(7.138 -20.172)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

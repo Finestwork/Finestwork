@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdedd2"/>
+      <stop offset="1" stop-color="#faa516"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="url(#linear-gradient-2)"/>
+    <g id="firebase" transform="translate(-167.696 -43.893)">
+      <path id="Path_3" data-name="Path 3" d="M181.7,91.258l6.139-40.365,7.762,12.49,3.076-6.145,18.659,34.09Z" transform="translate(0)" fill="#ffa712"/>
+      <path id="Path_4" data-name="Path 4" d="M198.7,265.26l18.63-9.315L210.911,224.9,181.7,255.875Z" transform="translate(0 -164.616)" fill="#fcca3f"/>
+      <path id="Path_5" data-name="Path 5" d="M195.622,282.45l-13.9,27.874,18.83-19.966Z" transform="translate(-0.024 -219.066)" fill="#f6820c"/>
+    </g>
+  </g>
+</svg>

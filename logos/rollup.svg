@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.268" y1="0.482" x2="0.676" y2="0.553" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6533"/>
+      <stop offset="0.157" stop-color="#ff5633"/>
+      <stop offset="0.434" stop-color="#ff4333"/>
+      <stop offset="0.714" stop-color="#ff3733"/>
+      <stop offset="1" stop-color="#f33"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.205" y1="0.381" x2="0.935" y2="0.804" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bf3338"/>
+      <stop offset="1" stop-color="#f33"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.323" y1="0.395" x2="0.456" y2="0.489" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="0.516" y1="0.783" x2="0.485" y2="0.417" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-6" x1="0.402" y1="0.472" x2="0.54" y2="0.545" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fbb040"/>
+      <stop offset="1" stop-color="#fb8840"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="0.552" y1="0.059" x2="0.409" y2="1.28" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="#242938"/>
+    <g id="rollup-js-seeklogo.com" transform="translate(13.829 8.941)">
+      <path id="Path_25" data-name="Path 25" d="M65.125,45.519a15.049,15.049,0,0,0-1.961-7.458c-3.318-3.414-10.534-4.205-12.326-.016-1.84,4.294,3.092,9.073,5.247,8.693,2.744-.484-.484-6.78-.484-6.78,4.2,7.91,3.229,5.489-4.359,12.754S35.9,75.3,34.775,75.95a.926.926,0,0,1-.153.081H64.382a.708.708,0,0,0,.63-1.025L57.231,59.6a.7.7,0,0,1,.274-.928A15.151,15.151,0,0,0,65.125,45.519Z" transform="translate(-29.704 -30.294)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_26" data-name="Path 26" d="M65.125,45.519a15.049,15.049,0,0,0-1.961-7.458c-3.318-3.414-10.534-4.205-12.326-.016-1.84,4.294,3.092,9.073,5.247,8.693,2.744-.484-.484-6.78-.484-6.78,4.2,7.91,3.229,5.489-4.359,12.754S35.9,75.3,34.775,75.95a.926.926,0,0,1-.153.081H64.382a.708.708,0,0,0,.63-1.025L57.231,59.6a.7.7,0,0,1,.274-.928A15.151,15.151,0,0,0,65.125,45.519Z" transform="translate(-29.704 -30.294)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_27" data-name="Path 27" d="M29.168,105.712c1.13-.646,8.879-15.982,16.466-23.247s8.556-4.843,4.359-12.753c0,0-16.063,22.52-21.875,33.659" transform="translate(-24.097 -60.056)" fill="url(#linear-gradient-4)"/>
+      <path id="Path_28" data-name="Path 28" d="M14.76,25.477C25.609,5.531,27.03,3.521,32.68,3.521a10.288,10.288,0,0,1,7.9,3.721A15.153,15.153,0,0,0,27.917.059H9.489a.7.7,0,0,0-.7.7V37.907A111.8,111.8,0,0,1,14.76,25.477Z" transform="translate(-7.429)" fill="url(#linear-gradient-5)"/>
+      <path id="Path_29" data-name="Path 29" d="M21.538,44.078C13.95,51.343,6.2,66.679,5.071,67.325a3.416,3.416,0,0,1-4.036-.4c-1.074-1.2-2.744-3.148,6.3-19.776C18.18,27.2,19.6,25.19,25.251,25.19a10.288,10.288,0,0,1,7.9,3.721c.1.17.21.347.315.525-3.318-3.414-10.534-4.205-12.326-.016-1.84,4.294,3.091,9.073,5.247,8.693,2.744-.484-.484-6.78-.484-6.78C30.094,39.235,29.125,36.813,21.538,44.078Z" transform="translate(0 -21.669)" fill="url(#linear-gradient-6)"/>
+      <path id="Path_30" data-name="Path 30" d="M8.219,48.033c10.848-19.945,12.269-21.955,17.92-21.955a10.371,10.371,0,0,1,6.78,2.559,10.288,10.288,0,0,0-7.668-3.447c-5.65,0-7.071,2.01-17.919,21.955-9.04,16.628-7.37,18.573-6.3,19.776a2.641,2.641,0,0,0,.517.436C.607,65.985.188,62.8,8.219,48.033Z" transform="translate(0 -21.669)" opacity="0.3" fill="url(#linear-gradient-7)"/>
+    </g>
+  </g>
+</svg>

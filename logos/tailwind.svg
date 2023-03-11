@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.951" y1="0.543" x2="0.065" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3cb4e8"/>
+      <stop offset="1" stop-color="#4fa3c7"/>
+    </linearGradient>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="#fff"/>
+    <path id="Path_1" data-name="Path 1" d="M52.036,85.229Q54.843,74,66.072,74C77.3,74,78.7,82.422,84.318,83.825q5.615,1.4,9.825-4.211Q91.337,90.843,80.108,90.843c-11.229,0-12.632-8.422-18.247-9.825Q56.246,79.614,52.036,85.229ZM38,102.072q2.807-11.228,14.036-11.229c11.229,0,12.632,8.422,18.247,9.825q5.615,1.4,9.825-4.211Q77.3,107.686,66.072,107.686c-11.229,0-12.632-8.422-18.247-9.825Q42.21,96.457,38,102.072Z" transform="translate(-34 -59)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="clip-Custom_Size_1">
+      <rect width="64" height="64"/>
+    </clipPath>
+  </defs>
+  <g id="Custom_Size_1" data-name="Custom Size – 1" clip-path="url(#clip-Custom_Size_1)">
+    <rect width="64" height="64" fill="rgba(255,255,255,0)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="64" height="64" rx="18" fill="#242938"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-83.871 -27.698)">
+      <path id="Path_1" data-name="Path 1" d="M70.628,50h8.157L58.392,85.177,38,50H53.6l4.792,8.157L63.083,50Z" transform="translate(57.871 -7.736)" fill="#41b883"/>
+      <path id="Path_2" data-name="Path 2" d="M38,50,58.392,85.177,78.785,50H70.628L58.392,71.106,46.055,50Z" transform="translate(57.871 -7.736)" fill="#41b883"/>
+      <path id="Path_3" data-name="Path 3" d="M73.55,50,85.887,71.208,98.123,50H90.578l-4.69,8.157L81.1,50Z" transform="translate(30.376 -7.736)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
