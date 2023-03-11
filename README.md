@@ -42,11 +42,48 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+<<<<<<< HEAD
 <a href="https://www.figma.com/" target="_blank"><img src="logos/figma.svg" title="Figma"/></a>
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="logos/illustrator.svg" title="Illustrator"/></a>
 <a href="https://helpx.adobe.com/support/xd.html" target="_blank"><img src="logos/xd.svg" title="Adobe XD" /></a>
 <a href="https://www.adobe.com/ph_en/products/photoshop.html" target="_blank"><img src="logos/photoshop.svg" title="Photoshop" /></a>
 <a href="https://balsamiq.com/" target="_blank"><img src="logos/balsamiq.svg" title="Balsamiq" /></a>
+=======
+### Languages & Frameworks
+<a href=""><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=pug" /></a>
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=sass" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=vue" />
+<img src="https://skillicons.dev/icons?i=jquery" />
+<img src="https://skillicons.dev/icons?i=babel" />
+<img src="https://skillicons.dev/icons?i=jest" />
+<img src="https://skillicons.dev/icons?i=webpack" />
+<img src="https://skillicons.dev/icons?i=rollup" />
+<img src="https://skillicons.dev/icons?i=vite" />
+<img src="https://skillicons.dev/icons?i=php" />
+<img src="https://skillicons.dev/icons?i=laravel" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=bash" />
+
+### Visual Design & Prototyping Skills
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=illustrator" />
+<img src="https://skillicons.dev/icons?i=xd" />
+<img src="https://skillicons.dev/icons?i=ps" />
+
+### Let's Connect
+<a href="https://www.linkedin.com/in/younes-espiritu-a32a16269/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</href>
+<a href="discohttps://discord.com/users/431340211952418827">
+<img src="https://skillicons.dev/icons?i=discord" />
+</href>
+>>>>>>> 7f3064575827d7ba7b352029027a5368cc263271
 
 &nbsp;
 <!--📏LINE-->
