@@ -3,7 +3,7 @@
 <h1 align="center" style="border-bottom: none;">Hi <img width="45px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"/>, I'm Younes!</h1>
 
 - 💻 Heya! I'm a **front-end web developer** based in the Philippines with almost a year of experience in developing websites. I'm always tinkering with side projects to improve my skills and if you have an open-source project or would like to collaborate, I'd love to hear from you! Don't hesitate to reach out and connect.
-- 📝 Planning to write more articles on [medium](https://medium.com/@kapitan.heneral).
+- 📝 Planning to write more articles on [hashnode](https://hashnode.com/@Finestwork).
 
 - 🎮 Let us solve code challenges on [codewards](https://www.codewars.com/users/Finestwork), [leetcode](https://leetcode.com/Finestwork/), [HackerEarth](https://www.hackerearth.com/@finestwork), [codechef](https://www.codechef.com/users/finestwork).
 
